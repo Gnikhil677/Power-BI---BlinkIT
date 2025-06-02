@@ -1,9 +1,12 @@
 # 🚀Blinkit Power BI Dashboard: Sales, Trends & KPIs
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/b27d6f2e-4e37-4ab3-ab5f-208efe05ced1)
+
 This project presents an interactive Power BI dashboard designed to provide a comprehensive analysis of Blinkit's sales performance and trends. The dashboard incorporates key performance indicators (KPIs), dynamic charts, and visualizations to offer actionable insights into business performance.
 
 A dedicated filter panel allows users to seamlessly explore data across different outlet locations, sizes, and types, enabling tailored analysis for strategic decision-making. The goal of this dashboard is to empower stakeholders with a clear, data-driven view of sales trends, regional performance variations, and key business metrics — all in a single, user-friendly interface.
 
-**Download my BlinkIT PowerBI Dashboard from here** - 
+**Download my BlinkIT PowerBI Dashboard from here** - https://github.com/Gnikhil677/Power-BI---BlinkIT/blob/main/blinkit.pbix
 
 ## 🎯 Project Objectives:
 
@@ -195,7 +198,7 @@ This filter panel adds flexibility and ensures users can easily tailor the visua
 
 ![dashboard](IMAGES/Dashboard.png)
 
-**To Download the Dashboard** - 
+**To Download the Dashboard** - https://github.com/Gnikhil677/Power-BI---BlinkIT/blob/main/blinkit.pbix
 
 ## ✍️CONCLUSION - 
 
